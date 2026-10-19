@@ -1,0 +1,18 @@
+# Dependências (o Render vai instalar isso sozinho)
+node_modules/
+
+# Arquivos de log
+*.log
+npm-debug.log*
+
+# Variáveis de ambiente (segredos)
+.env
+.env.local
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Configurações do seu editor de código
+.vscode/
+.idea/
